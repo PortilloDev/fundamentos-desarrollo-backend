@@ -9,7 +9,6 @@ El repositorio está organizado por capítulos y ejercicios para facilitar la na
 fundamentos-desarrollo-backend/ │ ├── Capitulo1/ │ ├── Ejercicio1/ │ │ ├── README.md # Enunciado del ejercicio │ │ └── solucion.md # Solución del ejercicio │ ├── Ejercicio2/ │ └── ... ├── Capitulo2/ │ ├── Ejercicio1/ │ └── ... └── ...
 
 
-
 Cada ejercicio incluye:
 
 - **README.md:** Descripción detallada del ejercicio, objetivos y instrucciones.
@@ -50,9 +49,11 @@ Cada ejercicio incluye:
 
 Autor: **Iván Portillo Pérez**
 
-- **Sitio web:** [notasweb.me](https://notasweb.me)
-- **LinkedIn:** [linkedin.com/in/ivan-portillo-perez](https://www.linkedin.com/in/ivan-portillo-perez/)
-- **Email:** [ivan.portillo@notasweb.me](mailto:ivan.portillo@notasweb.me)
+[![web](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://notasweb.me)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-portillo-perez/)
+
+**Email:** [ivan.portillo@notasweb.me](mailto:ivan.portillo@notasweb.me)
 
 Si tienes preguntas, comentarios o sugerencias, no dudes en ponerte en contacto. Estoy siempre dispuesto a ayudar y aprender junto a la comunidad.
 
